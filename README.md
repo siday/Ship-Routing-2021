@@ -1,4 +1,4 @@
-How run the program:
+How to run the program:
 cd to current folder and run the following commend:
 python3 GUI.py
 

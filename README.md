@@ -8,3 +8,4 @@ After settle down all the parameters. Click button "Start Calculation" the progr
 Wait for a long time, the result will show up.
 
 Author: Sida Yu
+for the detail information please look into the report 

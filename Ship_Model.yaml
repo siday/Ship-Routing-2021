@@ -1,0 +1,25 @@
+## ship model is set here
+
+
+Los: 172.24   # Length over Surface [m]
+TF: 10      # Draft at FP [m]
+TA: 10       # Draft at AP [m]
+Dp:  4      # Propelldiameter[m]
+Nrud: 1     # Number of rudders
+NBrac: 1    # Number of brackets
+NBoss:  1   # Number of propeller boss
+NThr:  1    # Number of tunnel thrusters
+L: 162.45 
+Lwl: 172.24
+B: 32
+CB: 0.728
+S: 8.267520000000000e+03
+A: 8.267520000000000e+03
+# here is the adress of the weather data 
+n-northsea: ['weather_dataset/n-northsea_wave.grb','weather_dataset/n-northsea_wind.grb']
+nordland: ['weather_dataset/nordland_wave.grb','weather_dataset/nordland_wind.grb']
+oslofjord: ['weather_dataset/oslofjord_wave.grb','weather_dataset/oslofjord_wind.grb']
+skagerrak: ['weather_dataset/skagerrak_wave.grb','weather_dataset/skagerrak_wind.grb']
+sorlandet: ['weather_dataset/sorlandet_wave.grb','weather_dataset/sorlandet_wind.grb']
+troms-finnmark: ['weather_dataset/troms-finnmark_wave.grb','weather_dataset/troms-finnmark_wind.grb']
+west_norway: ['weather_dataset/west_norway_wave.grb','weather_dataset/west_norway_wind.grb']

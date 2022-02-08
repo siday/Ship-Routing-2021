@@ -85,7 +85,7 @@ class Dijkstra():
         return W
     def is_collision(self, start, end):
         """
-        check if the start or end points are is collision with obstacles.
+        check if the start or end points are collision with obstacles.
         """
 
         if start in self.obs or end in self.obs:
